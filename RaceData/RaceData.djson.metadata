@@ -1,0 +1,20 @@
+{
+  "Category": null,
+  "Title": "RaceData",
+  "Description": "shows all race relevant data on one screen (except leaderboard)",
+  "Author": "michi hirczy",
+  "ScreenCount": 1.0,
+  "InGameScreensIndexs": [
+    0
+  ],
+  "IdleScreensIndexs": [],
+  "MainPreviewIndex": 0,
+  "IsOverlay": false,
+  "ShowInTaskBar": true,
+  "Width": 1024.0,
+  "Height": 600.0,
+  "OverlaySizeWarning": true,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": []
+}
